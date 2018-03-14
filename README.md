@@ -1,8 +1,19 @@
+Projet front End, développé avec Angular, qui permet 
+- d'afficher la liste de players
+- d'insérer un player en DB
+(voir projet LeaderBoard pour le back-end).
+
+** Technologies utilisées **
+- Création de plusieurs composants
+- Binding entre le composant et la vue
+- Utilisation des directives pour modifier l'affichage et le DOM
+- Navigation entre plusieurs pages
+- Utilisation d'un service pour l'envoi de requêtes HTTP vers la REST API, et gestion de l'observable
+- Création d'un formulaire
+
 # HelloAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
-
-It gives the possibility to list all the players and to add a new player and its country (GET + POST). Routing possible via navigation bar.
 
 ## Development server
 

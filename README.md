@@ -3,7 +3,7 @@ Projet front End, développé avec Angular, qui permet
 - d'insérer un player en DB
 (voir projet LeaderBoard pour le back-end).
 
-** Technologies utilisées **
+**Technologies utilisées**
 - Création de plusieurs composants
 - Binding entre le composant et la vue
 - Utilisation des directives pour modifier l'affichage et le DOM
